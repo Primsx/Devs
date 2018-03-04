@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e12b0d70-c80f-47b1-96e2-7b8d1c41c52e" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/SuperMario64.html" afterPath="$PROJECT_DIR$/SuperMario64.html" />
-      <change beforePath="$PROJECT_DIR$/about.html" afterPath="$PROJECT_DIR$/about.html" />
-      <change beforePath="$PROJECT_DIR$/bootstrap.html" afterPath="$PROJECT_DIR$/bootstrap.html" />
-      <change beforePath="$PROJECT_DIR$/games.html" afterPath="$PROJECT_DIR$/games.html" />
-      <change beforePath="$PROJECT_DIR$/quake.html" afterPath="$PROJECT_DIR$/quake.html" />
-      <change beforePath="$PROJECT_DIR$/towerblocks.html" afterPath="$PROJECT_DIR$/towerblocks.html" />
-      <change beforePath="$PROJECT_DIR$/webdev.html" afterPath="$PROJECT_DIR$/webdev.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -27,7 +19,7 @@
       <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/about.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
+            <state relative-caret-position="3604">
               <caret line="212" column="151" lean-forward="false" selection-start-line="212" selection-start-column="151" selection-end-line="212" selection-end-column="151" />
               <folding />
             </state>
@@ -37,8 +29,8 @@
       <file leaf-file-name="slither.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/slither.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="15" column="70" lean-forward="true" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+            <state relative-caret-position="255">
+              <caret line="15" column="70" lean-forward="false" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
               <folding>
                 <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -49,8 +41,8 @@
       <file leaf-file-name="SuperMario64.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/SuperMario64.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="137" column="20" lean-forward="true" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
+            <state relative-caret-position="2329">
+              <caret line="137" column="20" lean-forward="false" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -59,8 +51,8 @@
       <file leaf-file-name="Android.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Android.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="322" column="47" lean-forward="true" selection-start-line="322" selection-start-column="47" selection-end-line="322" selection-end-column="47" />
+            <state relative-caret-position="5474">
+              <caret line="322" column="47" lean-forward="false" selection-start-line="322" selection-start-column="47" selection-end-line="322" selection-end-column="47" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -71,8 +63,8 @@
       <file leaf-file-name="towerblocks.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/towerblocks.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="555">
-              <caret line="149" column="155" lean-forward="true" selection-start-line="149" selection-start-column="155" selection-end-line="149" selection-end-column="155" />
+            <state relative-caret-position="2533">
+              <caret line="149" column="155" lean-forward="false" selection-start-line="149" selection-start-column="155" selection-end-line="149" selection-end-column="155" />
               <folding />
             </state>
           </provider>
@@ -81,8 +73,8 @@
       <file leaf-file-name="webdev.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/webdev.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="204" column="14" lean-forward="true" selection-start-line="204" selection-start-column="14" selection-end-line="204" selection-end-column="14" />
+            <state relative-caret-position="3468">
+              <caret line="204" column="14" lean-forward="false" selection-start-line="204" selection-start-column="14" selection-end-line="204" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -91,7 +83,7 @@
       <file leaf-file-name="bootstrap.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/bootstrap.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="471">
+            <state relative-caret-position="6256">
               <caret line="368" column="151" lean-forward="false" selection-start-line="368" selection-start-column="151" selection-end-line="368" selection-end-column="151" />
               <folding>
                 <element signature="e#3375#3381#0" expanded="true" />
@@ -103,8 +95,8 @@
       <file leaf-file-name="games.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/games.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="722">
-              <caret line="209" column="155" lean-forward="true" selection-start-line="209" selection-start-column="155" selection-end-line="209" selection-end-column="159" />
+            <state relative-caret-position="3553">
+              <caret line="209" column="155" lean-forward="false" selection-start-line="209" selection-start-column="155" selection-end-line="209" selection-end-column="159" />
               <folding />
             </state>
           </provider>
@@ -123,8 +115,8 @@
       <file leaf-file-name="quake.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/quake.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="185">
-              <caret line="116" column="61" lean-forward="true" selection-start-line="116" selection-start-column="61" selection-end-line="116" selection-end-column="61" />
+            <state relative-caret-position="287">
+              <caret line="122" column="10" lean-forward="true" selection-start-line="122" selection-start-column="10" selection-end-line="122" selection-end-column="10" />
               <folding />
             </state>
           </provider>
@@ -186,6 +178,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -208,8 +202,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -271,31 +263,32 @@
       <workItem from="1517309995088" duration="3896000" />
       <workItem from="1517322290619" duration="6781000" />
       <workItem from="1518881188050" duration="1484000" />
+      <workItem from="1520181344042" duration="822000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15323000" />
+    <option name="totallyTimeSpent" value="16145000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
@@ -330,6 +323,92 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3604">
+          <caret line="212" column="151" lean-forward="false" selection-start-line="212" selection-start-column="151" selection-end-line="212" selection-end-column="151" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/slither.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="70" lean-forward="true" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+          <folding>
+            <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/SuperMario64.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2329">
+          <caret line="137" column="20" lean-forward="true" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Android.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5474">
+          <caret line="322" column="47" lean-forward="true" selection-start-line="322" selection-start-column="47" selection-end-line="322" selection-end-column="47" />
+          <folding>
+            <element signature="n#style#0;n#h2#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/towerblocks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="149" column="155" lean-forward="true" selection-start-line="149" selection-start-column="155" selection-end-line="149" selection-end-column="155" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/webdev.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3468">
+          <caret line="204" column="14" lean-forward="true" selection-start-line="204" selection-start-column="14" selection-end-line="204" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bootstrap.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6256">
+          <caret line="368" column="151" lean-forward="false" selection-start-line="368" selection-start-column="151" selection-end-line="368" selection-end-column="151" />
+          <folding>
+            <element signature="e#3375#3381#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/games.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3553">
+          <caret line="209" column="155" lean-forward="true" selection-start-line="209" selection-start-column="155" selection-end-line="209" selection-end-column="159" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="84" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/quake.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1972">
+          <caret line="116" column="61" lean-forward="true" selection-start-line="116" selection-start-column="61" selection-end-line="116" selection-end-column="61" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="51">
@@ -536,15 +615,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/webdev.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="204" column="14" lean-forward="true" selection-start-line="204" selection-start-column="14" selection-end-line="204" selection-end-column="14" />
+        <state relative-caret-position="3468">
+          <caret line="204" column="14" lean-forward="false" selection-start-line="204" selection-start-column="14" selection-end-line="204" selection-end-column="14" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/about.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
+        <state relative-caret-position="3604">
           <caret line="212" column="151" lean-forward="false" selection-start-line="212" selection-start-column="151" selection-end-line="212" selection-end-column="151" />
           <folding />
         </state>
@@ -552,8 +631,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/slither.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="15" column="70" lean-forward="true" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
+        <state relative-caret-position="255">
+          <caret line="15" column="70" lean-forward="false" selection-start-line="15" selection-start-column="70" selection-end-line="15" selection-end-column="70" />
           <folding>
             <element signature="n#style#0;n#iframe#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -562,16 +641,16 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/SuperMario64.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="137" column="20" lean-forward="true" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
+        <state relative-caret-position="2329">
+          <caret line="137" column="20" lean-forward="false" selection-start-line="137" selection-start-column="20" selection-end-line="137" selection-end-column="20" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Android.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="322" column="47" lean-forward="true" selection-start-line="322" selection-start-column="47" selection-end-line="322" selection-end-column="47" />
+        <state relative-caret-position="5474">
+          <caret line="322" column="47" lean-forward="false" selection-start-line="322" selection-start-column="47" selection-end-line="322" selection-end-column="47" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#div#0;n#section#3;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
@@ -580,15 +659,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/towerblocks.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="149" column="155" lean-forward="true" selection-start-line="149" selection-start-column="155" selection-end-line="149" selection-end-column="155" />
+        <state relative-caret-position="2533">
+          <caret line="149" column="155" lean-forward="false" selection-start-line="149" selection-start-column="155" selection-end-line="149" selection-end-column="155" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/bootstrap.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="471">
+        <state relative-caret-position="6256">
           <caret line="368" column="151" lean-forward="false" selection-start-line="368" selection-start-column="151" selection-end-line="368" selection-end-column="151" />
           <folding>
             <element signature="e#3375#3381#0" expanded="true" />
@@ -598,8 +677,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/games.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="722">
-          <caret line="209" column="155" lean-forward="true" selection-start-line="209" selection-start-column="155" selection-end-line="209" selection-end-column="159" />
+        <state relative-caret-position="3553">
+          <caret line="209" column="155" lean-forward="false" selection-start-line="209" selection-start-column="155" selection-end-line="209" selection-end-column="159" />
           <folding />
         </state>
       </provider>
@@ -614,8 +693,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/quake.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="116" column="61" lean-forward="true" selection-start-line="116" selection-start-column="61" selection-end-line="116" selection-end-column="61" />
+        <state relative-caret-position="287">
+          <caret line="122" column="10" lean-forward="true" selection-start-line="122" selection-start-column="10" selection-end-line="122" selection-end-column="10" />
           <folding />
         </state>
       </provider>
