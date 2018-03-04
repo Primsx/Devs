@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="e12b0d70-c80f-47b1-96e2-7b8d1c41c52e" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -102,17 +103,17 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="84" />
+            <state relative-caret-position="153">
+              <caret line="9" column="90" lean-forward="true" selection-start-line="9" selection-start-column="90" selection-end-line="9" selection-end-column="90" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="quake.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="quake.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/quake.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="287">
@@ -138,7 +139,6 @@
       <list>
         <option value="$USER_HOME$/Desktop/New folder/bootstrap.html" />
         <option value="$PROJECT_DIR$/assets/games/tower-blocks/index.html" />
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/Android.html" />
         <option value="$PROJECT_DIR$/slither.html" />
         <option value="$PROJECT_DIR$/webdev.html" />
@@ -148,6 +148,7 @@
         <option value="$PROJECT_DIR$/bootstrap.html" />
         <option value="$PROJECT_DIR$/games.html" />
         <option value="$PROJECT_DIR$/quake.html" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -263,12 +264,20 @@
       <workItem from="1517309995088" duration="3896000" />
       <workItem from="1517322290619" duration="6781000" />
       <workItem from="1518881188050" duration="1484000" />
-      <workItem from="1520181344042" duration="822000" />
+      <workItem from="1520181344042" duration="1348000" />
     </task>
+    <task id="LOCAL-00001" summary="added Brandflow webpush">
+      <created>1520182196536</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1520182196536</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16145000" />
+    <option name="totallyTimeSpent" value="16671000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -317,6 +326,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="added Brandflow webpush" />
+    <option name="LAST_COMMIT_MESSAGE" value="added Brandflow webpush" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -683,18 +696,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="3" column="4" lean-forward="false" selection-start-line="3" selection-start-column="4" selection-end-line="3" selection-end-column="84" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/quake.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="122" column="10" lean-forward="true" selection-start-line="122" selection-start-column="10" selection-end-line="122" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" column="90" lean-forward="true" selection-start-line="9" selection-start-column="90" selection-end-line="9" selection-end-column="90" />
           <folding />
         </state>
       </provider>
